@@ -1,0 +1,163 @@
+Food,Allergy,Substitute
+Almond,Nut Allergy,Sunflower Seeds
+Apple,Oral Allergy Syndrome,Pear (cooked)
+Apricot,Stone Fruit Allergy,Mango
+Artichoke,Insulin Allergy,Asparagus
+Asparagus,Allium Allergy,Green Beans
+Avocado,Oral Allergy Syndrome,Zucchini
+Bamboo shoot,Histamine Allergy,Carrots
+Banana,Banana Allergy,Mango
+Barley,Gluten Allergy,Rice Flour
+Bean,Legume Allergy,Green Beans
+Blackberry,Salicylate Allergy,Blueberries (if tolerated)
+Black-eyed bean,Legume Allergy,Lentils
+Blueberry,Salicylate Allergy,Raspberries (if tolerated)
+Bonito,Histamine Allergy,Tofu
+Broad bean,Legume Allergy,Chickpeas (if tolerated)
+Broccoli,Broccoli allergy,Cauliflower
+Brussels sprouts,Cruciferous Allergy,Broccoli
+Buckwheat,Gluten Allergy,Quinoa
+Burdock,Ragweed Allergy,Parsnips
+Butter,Milk allergy / Lactose intolerance,Coconut Oil
+Butter bean,Legume Allergy,Lentils
+Buttermilk,Milk allergy / Lactose intolerance,Almond Milk
+Button mushroom,Mushroom Allergy,Portobello Mushroom (if tolerated)
+Cabbage,Cruciferous Allergy,Spinach
+Carrot,Hypersensitivity,No substitute available
+Casein,Milk allergy / Lactose intolerance,Coconut Cream
+Cattle,Alpha-gal Syndrome,Tempeh
+Cauliflower,Cruciferous Allergy,Broccoli
+Celery,Hypersensitivity,Carrots
+Cheese,Milk allergy / Lactose intolerance,Vegan Cheese
+Cherry,Stone Fruit Allergy,Mango
+Chestnut,Nut Allergy,Pumpkin Seeds
+Chicken,Poultry Allergy,Tofu
+Chicory,Insulin Allergy,Lettuce
+Chinese cabbage,Cruciferous Allergy,Spinach
+Coffee bean,Ochratoxin Allergy,Chicory Root (decaf)
+Corn,Corn Allergy,Quinoa
+Cotton seed,Seed Allergy,Sunflower Seeds
+Cranberry,Salicylate Allergy,Raspberries (if tolerated)
+Cream,Milk allergy / Lactose intolerance,Coconut Cream
+Crustaceans,Shellfish Allergy,Tofu
+Custard,Milk allergy / Lactose intolerance,Coconut Custard
+Date,Oral Allergy Syndrome,Prunes
+Deer,Alpha-gal Syndrome,Tempeh
+Duck,Poultry Allergy,Tofu
+Eel,Fish Allergy,Tofu
+Egg plant,Nightshade Allergy,Zucchini
+Eggs,Poultry Allergy,Flaxseed Mix
+Endive,Insulin Allergy,Lettuce
+Fructose,Sugar Allergy / Intolerance,Stevia
+Garlic,Allium Allergy,Chives
+Ginger,Histamine Allergy,Turmeric
+Ginkgo nut,Nut Allergy,Pumpkin Seeds
+Globfish,Fish Allergy,Tofu
+Glucose,Sugar Allergy / Intolerance,Honey (if tolerated)
+Goat,Alpha-gal Syndrome,Tempeh
+Grape,LTP Allergy,Pear
+Grapefruit,Citrus Allergy,Orange (if tolerated)
+Green soybean,Legume Allergy,Chickpeas
+Guava,Oral Allergy Syndrome,Mango
+Honey,Honey Allergy,Maple Syrup
+Hop,Beer Allergy,Chamomile
+Horse,Alpha-gal Syndrome,Tempeh
+Horse Mackerel,Fish Allergy,Tofu
+Horseradish,Cruciferous Allergy,Wasabi (if tolerated)
+Huckleberry,Salicylate Allergy,Blueberries (if tolerated)
+Ice cream,Milk allergy / Lactose intolerance,Vegan Ice Cream
+Japanese pear,Oral Allergy Syndrome,Pear
+Japanese plum,Stone Fruit Allergy,Mango
+Kale,Cruciferous Allergy,Spinach
+Kidney bean,Legume Allergy,Lentils
+Kiwi,Oral Allergy Syndrome,Mango
+Konjac,Potato Allergy,Sweet Potato
+Kyona,Cruciferous Allergy,Spinach
+Lactose,Lactose Intolerance,Lactose-Free Milk
+Leek,Allium Allergy,Scallions
+Lemon,Citrus Allergy,Lime (if tolerated)
+Lentil,Legume Allergy,Chickpeas
+Lettuce ,LTP Allergy,No substitute available
+Lima bean,Legume Allergy,Green Beans
+Lime,Citrus Allergy,Lemon (if tolerated)
+Loquat,Oral Allergy Syndrome,Pear
+Mackerel,Fish Allergy,Tofu
+Mango,Oral Allergy Syndrome,Papaya
+Milk,Milk allergy / Lactose intolerance,Almond Milk
+Mineral water,Aquagenic Urticaria,Filtered Water
+Mitsuba,Hypersensitivity,Parsley
+Mume plum,Stone Fruit Allergy,Mango
+Mustard Spinach,Cruciferous Allergy,Spinach
+Nectarine,Stone Fruit Allergy,Mango
+Nira,Allium Allergy,Scallions
+Okra,Histamine Allergy,Zucchini
+Onion,Allium Allergy,Chives
+Orange,Citrus Allergy,Grapefruit (if tolerated)
+Orange pulp,Citrus Allergy,Grapefruit (if tolerated)
+Papaya,Oral Allergy Syndrome,Mango
+Parsley,Hypersensitivity,Cilantro
+Parsnip,Hypersensitivity,Carrots
+Passion fruit,Oral Allergy Syndrome,Mango
+Peach,Stone Fruit Allergy,Mango
+Peanut,Peanut Allergy,Sunflower Seeds
+Pear,Oral Allergy Syndrome,Apple (if tolerated)
+Peas,Legume Allergy,Green Beans
+Peas,Legume Allergy,Green Beans
+Pecan,Nut Allergy,Pumpkin Seeds
+Pegia,Legume Allergy,Lentils
+Peppermint,Mint Allergy,Spearmint (if tolerated)
+Percifomes,Fish Allergy,Tofu
+Pig,Alpha-gal Syndrome,Tempeh
+Pineapple,Oral Allergy Syndrome,Mango
+Popcorn,Corn Allergy,Quinoa
+Potato,Potato Allergy,Sweet Potato
+Prune,Stone Fruit Allergy,Dates
+Qing-geng-cai,Cruciferous Allergy,Spinach
+Quince,Oral Allergy Syndrome,Pear
+Radish root,Hypersensitivity,Carrots
+Rapeseed,Seed Allergy,Sunflower Seeds
+Raspberry,Salicylate Allergy,Blueberries (if tolerated)
+Rice,Rice Allergy,Quinoa
+Royal Jelly,Honey Allergy,Maple Syrup
+Rye,Gluten Allergy,Rice Flour
+Safflower seed,Seed Allergy,Sunflower Seeds
+Salmon,Fish Allergy,Tofu
+Salsify,Insulin Allergy,Parsnips
+Sansho,Pepper Allergy,Black Pepper (if tolerated)
+Sea Bass,Fish Allergy,Tofu
+Sea Bream,Fish Allergy,Tofu
+Sesame seed,Seed Allergy,Chia Seeds
+Shallot,Allium Allergy,Scallions
+Sheep,Alpha-gal Syndrome,Tempeh
+Shelled mollusc,Fish Allergy,Tofu
+Shiitake  mushroom,Mushroom Allergy,No substitute available
+Shungiku,Insulin Allergy,Lettuce
+Sour cream,Milk allergy / Lactose intolerance,Coconut Cream
+Soybean,Soy Allergy,Chickpeas
+Spearmint,Mint Allergy,Peppermint (if tolerated)
+Spinach,Histamine Allergy,Kale
+Strawberry,Salicylate Allergy,Blueberries (if tolerated)
+Sugar,Sugar Allergy / Intolerance,Stevia
+Sugar beet,Sugar Allergy / Intolerance,Stevia
+Sugarcane,Sugar Allergy / Intolerance,Stevia
+Sultani,Legume Allergy,Lentils
+Sultapya,Legume Allergy,Lentils
+Sunflower seed,Seed Allergy,Pumpkin Seeds
+Sweet corn,Corn Allergy,Quinoa
+Sweet Pepper,Nightshade Allergy,Zucchini
+Sweet potato,Potato Allergy,Carrots
+Taro,Potato Allergy,Sweet Potato
+Tea,Tannin Allergy,Herbal Tea
+Tetraodontiformes,Fish Allergy,Tofu
+Tomato,Nightshade Allergy,Zucchini
+Trout,Fish Allergy,Tofu
+Tuna,Fish Allergy,Tofu
+Turkey,Poultry Allergy,Tofu
+Turnip root,Thyroid,Carrots
+Walnut,Nut Allergy,Pumpkin Seeds
+Welsh,Allium Allergy,Scallions
+Wheat,Gluten Allergy,Rice Flour
+Whey,Milk allergy / Lactose intolerance,Coconut Cream
+White bean,Legume Allergy,Lentils
+Yam,Potato Allergy,Sweet Potato
+Yogurt ,Milk allergy / Lactose intolerance,No substitute available
