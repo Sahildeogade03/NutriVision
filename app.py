@@ -25,7 +25,7 @@ client = Groq(api_key=api_key)
 allergy_df = pd.read_csv("food_and_allergy.csv")
 
 # Initialize Open Food Facts API with a user agent
-off_api = API(user_agent="NutriVision by SahilDeogade sahil.deogade22@vit.edu")  # Replace with your info
+off_api = API(user_agent="NutriVision by SahilDeogade❤️")  # Replace with your info
 # Set Tesseract path explicitly
 pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
